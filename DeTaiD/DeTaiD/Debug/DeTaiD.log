@@ -1,0 +1,3 @@
+﻿DeTaiDDlg.obj : error LNK2001: unresolved external symbol "public: void __thiscall CDeTaiDDlg::OnBnClickedCheckNv(void)" (?OnBnClickedCheckNv@CDeTaiDDlg@@QAEXXZ)
+EnterPass.obj : error LNK2001: unresolved external symbol "public: void __thiscall EnterPass::OnBnClickedButton1(void)" (?OnBnClickedButton1@EnterPass@@QAEXXZ)
+c:\users\dell\documents\visual studio 2015\Projects\DeTaiD\Debug\DeTaiD.exe : fatal error LNK1120: 2 unresolved externals
